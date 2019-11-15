@@ -1,0 +1,10 @@
+prefix=/home/mandy/tslib-1.14-0123/build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: tslib
+Description: Touchscreen Access Library
+Version: 1.14
+Libs: -L${libdir} -lts
+Cflags: -I${includedir}

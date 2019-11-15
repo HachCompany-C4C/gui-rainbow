@@ -1,0 +1,37 @@
+<?xml version = '1.0' encoding="utf-8"?>
+<context>
+    <name>Page1Form.ui</name>
+    <message>
+        <location line="16" filename="Page1Form.ui.qml"/>
+        <source>Text Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="21" filename="Page1Form.ui.qml"/>
+        <source>Press Me</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location line="9" filename="main.qml"/>
+        <source>Hello World</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="21" filename="main.qml"/>
+        <source>Second page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="31" filename="main.qml"/>
+        <source>First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="34" filename="main.qml"/>
+        <source>Second</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>

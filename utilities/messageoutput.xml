@@ -1,0 +1,10 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+"http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node name="/h2o/probe/messageservice">
+  <interface name="h2o.probe.messageservice">
+    <method name="output">
+      <arg direction="in"  type="s" name="msg" />
+      <arg direction="out" type="s" />
+    </method>
+  </interface>
+</node>
